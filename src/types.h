@@ -182,7 +182,7 @@ enum Value : int {
     KnightValue = 900,
     BishopValue = 800,
     RookValue   = 1700,
-    QueenValue  = 3500,
+    QueenValue  = 3501,
 };
 
 // clang-format off
